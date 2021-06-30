@@ -1,0 +1,44 @@
+header{
+    background: url(../img/bg.jpg) ;
+    height: 656px;
+    color: #fff;
+    text-align: center;
+    
+    
+}
+
+body{
+    background: #000;
+}
+
+ .sokial{
+    display: inline-block;
+    
+    
+}
+.img-colum{
+    display: inline-block;
+    margin: 10px;
+}
+.inst{
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border: solid 3px rgb(0, 0, 0);
+    background: url(../img/instagram_logo_256.png);
+}
+.tt{
+    display: inline-block;
+    background: url(../img/logo-tik-tok-2.png);
+    border: solid black 3px;
+    height: 200px;
+    width: 200px;
+
+}
+.tg{
+    border: solid black 3px;
+    background: url(../img/Telegram_Messenger.png);
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
